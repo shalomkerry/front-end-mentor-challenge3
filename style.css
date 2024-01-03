@@ -4,13 +4,16 @@
   box-sizing: border-box;
 }
 body{
+  min-height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
  font-family: "Hanken Grotesk";
 }
 .container{
 display: flex;
 justify-content: center;
 align-items: center;
-margin-top:100px;
 }
 .maincontainer{
   width:410px;
