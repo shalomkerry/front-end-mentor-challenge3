@@ -10,11 +10,7 @@ body{
   align-items:center;
  font-family: "Hanken Grotesk";
 }
-.container{
-display: flex;
-justify-content: center;
-align-items: center;
-}
+
 .maincontainer{
   width:410px;
   height:290px; 
